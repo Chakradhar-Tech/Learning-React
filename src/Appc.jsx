@@ -59,7 +59,7 @@ function AppC(){
 
                  <div className='form-check'>
                     <label htmlFor='checkbox3' className='form-check-label me-2'> mango </label>
-                    <input type="checkbox" className='form-check-input' name="fruit" id="checkbox3" value="cashewgit" />
+                    <input type="checkbox" className='form-check-input' name="fruit" id="checkbox3" value="cashew" />
                 </div>
             </fieldset>
 
