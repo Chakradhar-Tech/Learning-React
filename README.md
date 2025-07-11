@@ -1,12 +1,39 @@
-# React + Vite
+# Learning React – Travel Journey 🌍✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a practice project created to strengthen my understanding of React fundamentals like components, props, and dynamic rendering using the `.map()` function.
 
-Currently, two official plugins are available:
+## 🧠 What This Project Includes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- A static travel-themed page showing a list of destinations
+- Dynamic card rendering using data from a local JavaScript file
+- Use of **React props** to pass data into components
+- **map()** function used to loop through data and generate components
+- Each card displays:
+  - 📍 Location
+  - 🖼️ Image
+  - 📝 Description
+  - 🔗 Google Maps link to the place
 
-## Expanding the ESLint configuration
+## 📁 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (using Vite for setup)
+- JSX
+- JavaScript
+- CSS
+- BOOTSTRAP
+
+## 🎯 Purpose
+
+This project was built as part of my learning journey in React.  
+It helped me understand:
+- How to create and reuse components
+- How props and data flow in React
+- How to render lists of components efficiently
+
+## 🔗 Live Demo / GitHub
+
+> 💻 [View the GitHub Repository](https://github.com/Chakradhar-Tech/Learning-React)
+
+## 📷 Preview
+
+
