@@ -14,21 +14,22 @@ This is a practice project created to strengthen my understanding of React funda
   - 📝 Description
   - 🔗 Google Maps link to the place
 
-## 📁 Tech Stack
+## 🛠️ Tech Stack
 
-- React (using Vite for setup)
-- JSX
-- JavaScript
-- CSS
-- BOOTSTRAP
+- ⚛️ **React** (set up using **Vite**)
+- 🧩 **JavaScript + JSX**
+- 🎨 **Bootstrap** for styling
+- 🧠 **Props & Components**
+- 🔁 **map()** function for rendering lists
 
 ## 🎯 Purpose
 
-This project was built as part of my learning journey in React.  
+This project was built as part of my React learning journey.  
 It helped me understand:
 - How to create and reuse components
 - How props and data flow in React
-- How to render lists of components efficiently
+- How to render dynamic UI based on JS data
+- How to use Bootstrap for layout and design
 
 ## 🔗 Live Demo / GitHub
 
@@ -36,4 +37,4 @@ It helped me understand:
 
 ## 📷 Preview
 
-
+![Travel Journey Screenshot ](JourneyDetails.png)

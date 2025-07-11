@@ -7,10 +7,11 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 // import AppJ from "./AppJ.jsx"
 import AppC from "./Appc.jsx"
 import './AppStyle.css'
+import AppJ from "./AppJ.jsx"
 createRoot(document.getElementById("root")).render(
     <>
     
-        <AppC />
+        <AppJ />
     </>
 
 )
