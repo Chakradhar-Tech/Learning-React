@@ -37,4 +37,4 @@ It helped me understand:
 
 ## 📷 Preview
 
-![Travel Journey Screenshot ](JourneyDetails.png)
+![Travel Journey Screenshot -> ](JourneyDetails.png)
